@@ -1,0 +1,26 @@
+[
+  {
+    "ParameterKey": "DomainName",
+    "ParameterValue": "example.com"
+  },
+  {
+    "ParameterKey": "WebAppDomain",
+    "ParameterValue": "mail.example.com"
+  },
+  {
+    "ParameterKey": "AdminEmail",
+    "ParameterValue": "admin@example.com"
+  },
+  {
+    "ParameterKey": "EnableAI",
+    "ParameterValue": "true"
+  },
+  {
+    "ParameterKey": "EnablePushNotifications",
+    "ParameterValue": "true"
+  },
+  {
+    "ParameterKey": "RateLimitPerSecond",
+    "ParameterValue": "20"
+  }
+]
