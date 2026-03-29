@@ -228,4 +228,6 @@ MIT License - See LICENSE file for details
 
 ## Support
 
-For issues or questions, please open a GitHub issue.
+While I don't guarantee any kind of support, I will welcome any  reports of any issues or questions. Please feel free to open a GitHub issue, and I'll try to get to it.
+
+Marko
