@@ -1,4 +1,4 @@
-# Serverless Email System
+# YASES - Yet Another Serverless Email System
 
 This is v 1.0.0 of a fully functional, low cost, serverless email system built on AWS with AI capabilities.
 
